@@ -148,7 +148,7 @@ body {
 
 
 
-.h1 {
+h1 {
   color: blue;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
@@ -157,6 +157,5 @@ body {
 
 p {
   font-family: 'Raleway', sans-serif;
-  padding-bottom: 15px;
   line-height: 1.4;
 }
