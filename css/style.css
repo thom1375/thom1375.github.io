@@ -1,0 +1,12 @@
+body {
+  background-color: antiquewhite;
+}
+
+.h1 {
+  color: blue;
+  font-size: 20px;
+}
+
+p {
+  padding-bottom: 15px;
+}
