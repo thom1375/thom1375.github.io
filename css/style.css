@@ -153,9 +153,11 @@ h1 {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   font-size: 2rem;
+  padding-bottom: 1rem;
 }
 
 p {
   font-family: 'Raleway', sans-serif;
   line-height: 1.4;
+  padding-bottom: 0.5rem;
 }
